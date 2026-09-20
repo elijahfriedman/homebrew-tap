@@ -1,8 +1,8 @@
 class Keypause < Formula
   desc "Lock your keyboard and trackpad until you press an activator combo"
   homepage "https://github.com/elijahfriedman/keypause"
-  url "https://github.com/elijahfriedman/keypause/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "65fba2f0f2a72450d5dfabb0dc0ccbc0ccd75bb83e135aae32687a7f0fca4c4f"
+  url "https://github.com/elijahfriedman/keypause/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "583dccf522947edcfa445c67de87aa6077236cf9fa1b40618fe5265ad0d58d0e"
   license "MIT"
 
   depends_on macos: :big_sur
